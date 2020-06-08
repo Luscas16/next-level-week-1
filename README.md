@@ -1,20 +1,32 @@
 <h1 align="center"> 
-<img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/ecoleta-logo.png" alt="ecoleta"/>
+<img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/ecoleta-art.jpg" alt="ecoleta"/>
+  <br>
 </h1>
 
-<h2 align="center"> ♻️  [Ecoleta - Next Level Week #1 Starter] </h2>
+<h3 align="center"> ♻️  [Ecoleta - Next Level Week #1 Starter] <br></h3>
 
-<h3 align="center"> O Ecoleta foi desenvolvido durante a Next Level Week da Rocketseat, cujo módulo Starter consiste em desenvolver uma aplicação web responsiva utilizando HTML, CSS e Javascript.</h3>
+
+<h4 align="center"> O Ecoleta foi desenvolvido durante a Next Level Week da Rocketseat, cujo módulo Starter consiste em desenvolver uma aplicação web responsiva utilizando HTML, CSS e Javascript. <br></h4>
+
 
 ## 💭 Qual o objetivo?
-O descarte irregular de **materiais orgânicos** e **lixo eletrônico** no ambiente é um problema grave e resolvê-lo é um grande desafio. Pensando nisso, surge o **Ecoleta**, que tem como objetivo **formar uma ponte** entre quem necessita **descartar resíduos** e empresas que dão o **destino correto** para estes materiais, **tornando esse processo simples e acessível**.
+<p>O descarte irregular de <strong>materiais orgânicos</strong> e <strong>lixo eletrônico</strong> no ambiente é um problema grave e resolvê-lo é um grande desafio. Pensando nisso, surge o <strong>Ecoleta</strong>, que tem como objetivo <strong>formar uma ponte</strong> entre quem necessita <strong>descartar resíduos</strong> e empresas que dão o <strong>destino correto</strong> para estes materiais, <strong>tornando esse processo simples e acessível</strong>.</p>
 
 ## 📱 A aplicação
 
-<!-- Adicionar telas -->
+### Home
+<p>Idealizada para ser simples e intuitiva, a homepage possui um botão de pesquisa de Instituições que estejam cadastradas em uma determinada cidade, além de um botão para cadastro.<br></p>
+<img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/home.png">
 
-#### Home
-Idealizada para ser simples e intuitiva, a homepage possui um botão de pesquisa de Instituições que estejam cadastradas, além de um botão para cadastro.
+### Cadastro
+<p>A página de cadastro é simples e cadastrar uma nova empresa é muito rápido.<br></p>
+<img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/register.png">
+
+### Pesquisa
+<p>A pesquisa filtra os resultados por cidade, mostrando as instituições e com quais serviços de reciclagem trabalham.<br></p>
+<img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/results.png">
+
+
 
 ## ⚙️ O que foi utilizado?
 #### **Front-end** 
