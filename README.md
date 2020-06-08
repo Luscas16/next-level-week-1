@@ -2,7 +2,7 @@
 <img src="https://github.com/Luscas16/Ecoleta-nextlevelweek/raw/master/media/ecoleta-logo.png" alt="ecoleta"/>
 </h1>
 
-<h2 align="center"> ♻️  [Ecoleta - Next Level Week #1 Starter] />
+<h2 align="center"> ♻️  [Ecoleta - Next Level Week #1 Starter] </h2>
 
 <h3 align="center"> O Ecoleta foi desenvolvido durante a Next Level Week da Rocketseat, cujo módulo Starter consiste em desenvolver uma aplicação web responsiva utilizando HTML, CSS e Javascript.</h3>
 
@@ -18,15 +18,15 @@ Idealizada para ser simples e intuitiva, a homepage possui um botão de pesquisa
 
 ## ⚙️ O que foi utilizado?
 #### **Front-end** 
-<h5 align="center">- HTML5</h5>
-<h5 align="center">- CSS3</h5>
-<h5 align="center">- Javascript</h5>
+<h5>- HTML5</h5>
+<h5>- CSS3</h5>
+<h5>- Javascript</h5>
 
 #### **Back-end**
-<h5 align="center">- SQLite</h5>
-<h5 align="center">- Nodejs</h5>
-<h6 align="center">-- Express</h6>
-<h5 align="center">-- Nunjucks</h5>
+<h5>- SQLite</h5>
+<h5>- Nodejs</h5>
+<h5>-- Express</h6>
+<h5>-- Nunjucks</h5>
 
 ## 💻 Como executar?
 
